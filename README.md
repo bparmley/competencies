@@ -40,3 +40,11 @@ Be sure to run `npm install` from the command line
 run `npm start`
 
 in a new command line `cd` into the `test` directory and run either `node test` or `mocha test`
+
+##Competency 4
+
+run `npm install'
+
+cd into `test` directory
+
+run `mocha test` or `node test`

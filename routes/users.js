@@ -19,6 +19,7 @@ router.get('/post', function (req, res, next) {
 
 router.post('/post', function (req, res, next) {
   res.render('post', {name: req.body.name, age: req.body.age, job: req.body.job, competencies: req.body.competencies});
+
 })
 
 module.exports = router;
