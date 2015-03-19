@@ -32,3 +32,11 @@ to test the post to users post page post to the above location using the followi
     "competencies": "HTML5, CSS3, JavaScript, jQuery, Bootstrap, Joomla, Wordpress, Omni Update Campus Edition"
 }
 `
+
+##Competency 3
+
+Be sure to run `npm install` from the command line
+
+run `npm start`
+
+in a new command line `cd` into the `test` directory and run either `node test` or `mocha test`

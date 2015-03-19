@@ -1,9 +1,12 @@
 {
-  "name": "nodeServer",
+  "name": "competencies",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
+  },
+  "devDependencies": {
+    "expect": "^1.6.0"
   },
   "dependencies": {
     "body-parser": "~1.10.2",
