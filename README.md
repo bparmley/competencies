@@ -8,4 +8,4 @@ run `npm install`
 
 run `node app.js`
 
-launch a browser and navigate to `http://localhost:8080/user
+launch a browser and navigate to `http://localhost:8080/user`
