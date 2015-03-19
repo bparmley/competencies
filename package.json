@@ -1,0 +1,14 @@
+{
+  "name": "competencies",
+  "version": "1.0.0",
+  "description": "Employer competencies regarding unit testing and api endpoints",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Brandon Parmley",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
