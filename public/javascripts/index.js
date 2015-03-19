@@ -7,6 +7,9 @@ router.get('/', function(req, res, next) {
 });
 
 router.post('/', function(req, res, next) {
-  res.json({userName: req.body.userName, email: req.body.email});
+  res.json({
+    userName: req.body.username,
+    email: req.body.email
+    });
 });
 module.exports = router;
