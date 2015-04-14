@@ -48,3 +48,9 @@ run `npm install'
 cd into `test` directory
 
 run `mocha test` or `node test`
+
+##Competency 6
+
+Run `npm install`
+
+launch a browser and navigate to `http://localhost:3000/commitsData` to view the json data
